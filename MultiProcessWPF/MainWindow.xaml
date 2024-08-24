@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Label Content="Multi Process Test Application" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="245"/>
+        <TextBox Margin="10,41,10,10" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" />
     </Grid>
 </Window>
